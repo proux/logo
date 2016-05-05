@@ -1,2 +1,3 @@
-# logo
-Proux Logo
+# Proux Logo
+
+Copyright (c) 2016 proux UG (haftungsbeschränkt)
