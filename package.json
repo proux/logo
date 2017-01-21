@@ -1,0 +1,17 @@
+{
+  "name": "logo",
+  "version": "1.0.0",
+  "privat": true,
+  "description": "Proux Logo",
+  "main": "logo.svg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proux/logo.git"
+  },
+  "author": "Nico Lindemann <nico.lindemann@proux.net>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/proux/logo/issues"
+  },
+  "homepage": "https://github.com/proux/logo#readme"
+}
