@@ -1,5 +1,5 @@
 {
-  "name": "logo",
+  "name": "@proux/logo",
   "version": "1.0.0",
   "privat": true,
   "description": "Proux Logo",
@@ -9,7 +9,7 @@
     "url": "git+https://github.com/proux/logo.git"
   },
   "author": "Nico Lindemann <nico.lindemann@proux.net>",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
   "bugs": {
     "url": "https://github.com/proux/logo/issues"
   },
