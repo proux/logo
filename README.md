@@ -1,1 +1,1 @@
-![proux logo](https://rawgit.com/proux/logo/master/logo.svg "proux logo")
+![proux logo](https://cdn.jsdelivr.net/gh/proux/logo/logo.svg "proux logo")
